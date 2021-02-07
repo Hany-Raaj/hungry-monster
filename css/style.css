@@ -1,0 +1,30 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+#searchBtn{
+    background-color: tomato;
+    color: white;
+    border: none;
+}
+
+#searchBtn:hover{
+    background-color: white;
+    border: 1px solid tomato;
+    color: tomato;
+}
+
+a {
+    text-decoration: none;
+    transition: 0.2s;
+    color: #e74c3c;
+}
+
+.fa {
+    color: #e74c3c;
+    margin-right: 5px;
+}
+
+#warning {
+    display: none;
+}
